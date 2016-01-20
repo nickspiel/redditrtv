@@ -1,0 +1,2602 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"marign",
+				"margin-bottom"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"opaci",
+				"opacity	opacity()"
+			],
+			[
+				"padid",
+				"padding-bottom"
+			],
+			[
+				"translat",
+				"translateX"
+			],
+			[
+				"progress",
+				"progressBar"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"button",
+				"buttonType"
+			],
+			[
+				"next",
+				"nextButton"
+			],
+			[
+				"tra",
+				"translateX"
+			],
+			[
+				"trans",
+				"translateY"
+			],
+			[
+				"translte",
+				"translateY"
+			],
+			[
+				"op",
+				"opacity	opacity()"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"include",
+				"include	@include"
+			],
+			[
+				"site",
+				"SiteConfig"
+			],
+			[
+				"translate",
+				"translateY"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"max-",
+				"content-max-width"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"ro",
+				"roboto"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"template",
+				"templateData"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tran",
+				"translateX"
+			],
+			[
+				"content",
+				"contentToggle"
+			],
+			[
+				"con",
+				"contentToggle"
+			],
+			[
+				"translta",
+				"translateX"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backgorund-",
+				"background-color"
+			],
+			[
+				"acc",
+				"accordionTabs"
+			],
+			[
+				"translae",
+				"translateX"
+			],
+			[
+				"shad",
+				"subtle-shadow"
+			],
+			[
+				"COntent",
+				"ContentBlockTabs"
+			],
+			[
+				"transla",
+				"translateY"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"if",
+				"if	SilverStripe if statement"
+			],
+			[
+				"black",
+				"black-overlay"
+			],
+			[
+				"over",
+				"black-overlay"
+			],
+			[
+				"border-top",
+				"border-top-style"
+			],
+			[
+				"sty",
+				"$styleAttribute〔variable〕"
+			],
+			[
+				"Text",
+				"TextField〔class〕"
+			],
+			[
+				"backgru",
+				"background-image"
+			],
+			[
+				"chec",
+				"checkMoreItems"
+			],
+			[
+				"backgorund",
+				"background-color"
+			],
+			[
+				"backr",
+				"background"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"sms",
+				"$smsEnabled〔variable〕"
+			],
+			[
+				"auto",
+				"$autoresponderCompositeField〔variable〕"
+			],
+			[
+				"Site",
+				"SiteConfig〔class〕"
+			],
+			[
+				"SMS",
+				"SMSApiKeys"
+			],
+			[
+				"trac",
+				"trackingNumber"
+			],
+			[
+				"attac",
+				"$attachedFilename〔variable〕"
+			],
+			[
+				"file",
+				"$filePath〔variable〕"
+			],
+			[
+				"attached",
+				"$attachedFiles〔variable〕"
+			],
+			[
+				"ResourceCentreArti",
+				"ResourceCentreArticlePage"
+			],
+			[
+				"resou",
+				"$resourceCentreList〔variable〕"
+			],
+			[
+				"ResourceCentreHer",
+				"ResourceCentreHeroImage"
+			],
+			[
+				"email",
+				"$emailAddressOverride〔variable〕"
+			],
+			[
+				"preg",
+				"preg_replace〔function〕"
+			],
+			[
+				"marker",
+				"markerCoordinates〔variable〕"
+			],
+			[
+				"shortCode",
+				"$shortcodeAttributes〔variable〕"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"security",
+				"securityID"
+			],
+			[
+				"dis",
+				"disableSecurityToken〔function〕"
+			],
+			[
+				"sec",
+				"securityToken〔variable〕"
+			],
+			[
+				"parent",
+				"get_parent_class"
+			],
+			[
+				"baclg",
+				"background-color"
+			],
+			[
+				"image",
+				"$imagePath〔variable〕"
+			],
+			[
+				"pro",
+				"productData"
+			],
+			[
+				"produ",
+				"$productData〔variable〕"
+			],
+			[
+				"new",
+				"$newArrayList〔variable〕"
+			],
+			[
+				"arra",
+				"arrayList"
+			],
+			[
+				"att",
+				"$attributes〔variable〕"
+			],
+			[
+				"array",
+				"$arrayList〔variable〕"
+			],
+			[
+				"filter",
+				"filterKetword"
+			],
+			[
+				"sub",
+				"subtotals〔variable〕"
+			],
+			[
+				"order",
+				"orderSummary"
+			],
+			[
+				"prod",
+				"productOrder〔variable〕"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"set",
+				"setDescription〔function〕"
+			],
+			[
+				"api",
+				"$apiResponse〔variable〕"
+			],
+			[
+				"bacgk",
+				"background-color"
+			],
+			[
+				"event",
+				"eventCalendar〔variable〕"
+			],
+			[
+				"Multi",
+				"TreeMultiselectField〔class〕"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"border-radius",
+				"border-bottom-left-radius"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"setForm",
+				"setFormFields〔function〕"
+			],
+			[
+				"clos",
+				"closestLocation"
+			],
+			[
+				"close",
+				"closest"
+			],
+			[
+				"distance",
+				"distanceData"
+			],
+			[
+				"location",
+				"locationFinderMap"
+			],
+			[
+				"brand",
+				"brand-purple"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"closest",
+				"$closestLocation〔variable〕"
+			],
+			[
+				"origin",
+				"$originCoordinates〔variable〕"
+			],
+			[
+				"search",
+				"searchTerm"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"transl",
+				"translateX"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"light-",
+				"light-grey"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"Cam",
+				"CampaignList"
+			],
+			[
+				"Meta",
+				"MetaTitle"
+			],
+			[
+				"field",
+				"fieldByName"
+			],
+			[
+				"tbale",
+				"table-cell"
+			],
+			[
+				"orin",
+				"$original〔variable〕"
+			],
+			[
+				"Conte",
+				"ContentFreezeFlag"
+			],
+			[
+				"Check",
+				"CheckboxField"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"Tree",
+				"TreeMultiselectField"
+			],
+			[
+				"LinkListT",
+				"LinkListTwo"
+			],
+			[
+				"Link",
+				"LinkListOne"
+			],
+			[
+				"Enquyi",
+				"EnquiryForm"
+			],
+			[
+				"HTML",
+				"HTMLVarchar(255"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 734,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 564,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/VideoElement.jsx",
+			"settings":
+			{
+				"buffer_size": 962,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 607,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 786,
+				"line_ending": "Unix",
+				"name": "module.exports = {"
+			}
+		},
+		{
+			"file": "src/js/entry.js",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "// Create class called HelloBox that extends the base React Component class\nexport default class HelloBox extends React.Component {\n    constructor() {\n        super();\n    }\n\n    render() {\n        return <div>\n            <HelloText name=\"Dan\" />\n        </div>\n    }\n}",
+			"settings":
+			{
+				"buffer_size": 271,
+				"line_ending": "Unix",
+				"name": "// Create class called HelloBox that extends the b"
+			}
+		},
+		{
+			"contents": "info@sheengroup.com.au, glen.allpress@digital360.com.au, ",
+			"settings":
+			{
+				"buffer_size": 57,
+				"line_ending": "Unix",
+				"name": "info@sheengroup.com.au, glen.allpress@digital360.c"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "spaces",
+		"selected_items":
+		[
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"silver",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"insert",
+				"Gist: Insert Gist"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"stan",
+				"Standard Format: Toggle format on save"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insetr",
+				"Gist: Insert Gist"
+			],
+			[
+				"gist create",
+				"Gist: Create Public Gist"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"phpfmt",
+				"phpfmt: toggle format on save"
+			],
+			[
+				"phpfm",
+				"phpfmt: toggle format on save"
+			],
+			[
+				"silber",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"silv",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"sil",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"inser",
+				"Gist: Insert Gist"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"gist in",
+				"Gist: Insert Gist"
+			],
+			[
+				"disable",
+				"phpfmt: enable/disable additional transformations"
+			],
+			[
+				"conver sapc",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"silve",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"wrp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"inse",
+				"Gist: Insert Gist"
+			],
+			[
+				"hmtl",
+				"Set Syntax: HTML"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"strong",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"todo",
+				"Set Syntax: Rd (R Documentation)"
+			],
+			[
+				"silv	",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"sil	",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"in",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"gistins",
+				"Gist: Insert Gist"
+			],
+			[
+				"gits",
+				"Gist: Insert Gist"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"silver		",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"gist inser",
+				"Gist: Insert Gist"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gits ins",
+				"Gist: Insert Gist"
+			],
+			[
+				"sliver",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"gist op",
+				"Gist: Open Gist"
+			],
+			[
+				"siver",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"update",
+				"Gist: Update File"
+			],
+			[
+				"opn",
+				"Gist: Open Gist"
+			],
+			[
+				"inst",
+				"Gist: Insert Gist"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"silver	",
+				"Set Syntax: SilverStripe"
+			],
+			[
+				"docblo",
+				"Snippet: Start Docblock"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"indetn",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ins",
+				"Gist: Insert Gist"
+			],
+			[
+				"indet",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 556.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nickspiel/Sites/redditrtv/website",
+		"/Users/nickspiel/Sites/redditrtv/website/dist",
+		"/Users/nickspiel/Sites/redditrtv/website/src",
+		"/Users/nickspiel/Sites/redditrtv/website/src/js"
+	],
+	"file_history":
+	[
+		"/Users/nickspiel/Sites/redditrtv/website/entry.js",
+		"/Users/nickspiel/Sites/redditrtv/website/npm-debug.log",
+		"/Users/nickspiel/Sites/redditrtv/website/bundle.js",
+		"/Users/nickspiel/Sites/redditrtv/website/public/entry.js",
+		"/Users/nickspiel/Sites/redditrtv/website/components/bundle.js",
+		"/Users/nickspiel/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/StaffBioStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/StaffBioStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/ProgramInformationStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/scripts/global.js",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/styles/_strips.scss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/FormStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/FormStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/Strip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/ContactStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/pages/Page.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Page.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/styles/_animations.scss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/styles/_styles.scss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/AgendaStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/ArticleLinksStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/ContactDetailsStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/ContactStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/ContactDetailsStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/InformationBlock.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/EventInformationBlock.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/TimelineStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/ContentBlocksTabStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/VideoElement.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/digital360-boilerplate/templates/Includes/ContactStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/MediaContentTilesStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/InformationBlockListStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/Answer.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/ContentBlocksTabStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/FeatureButtonStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/FeatureTileStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/styles/global.scss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/RecommendedProgramStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/TODO.md",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/Recommendation.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/InformationTabsStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/TimelineStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/digital360-resource-centre/scripts/global.js",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/gulpfile.js",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/styles/_configuration.scss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/QuestionaireStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/ResultsForm.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/digital360-boilerplate/code/EnquiryPageController.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/ResultsForm.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/ResultsStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/ResultsStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/digital360-boilerplate/code/BaseForm.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/QuestionaireStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/framework/thirdparty/simpletest/page.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/ContentBlockTab.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/TestimonialSliderStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/Testimonial.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Layout/EnquirySuccessPage.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/_config/ResultsForm.yml",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/TestimonialTileStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/Question.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/TestimonialTileStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/QuestionaireStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/styles/global.css",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/AccordionItem.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/AccordionStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/digital360-boilerplate/code/HasOneEditorField.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/package.json",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/AccordionStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/LocationMap.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/FeatureTileStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/Tile.php",
+		"/Users/nickspiel/Desktop/front-end-questions.md",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/InformationBlockListStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/ContactStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/MediaContentTilesStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/EventInformationStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/EventListStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/_config/Routes.yml",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/extensions/SiteConfigExtension.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/RecommendedProgramStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/controllers/RecommendationsController.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/composer.json",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/framework/model/DataObject.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/framework/model/DataList.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/framework/view/SSViewer.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/ArticleLinksStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/AgendaStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/AgendaItem.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/bower_components/jquery/dist/jquery.js",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/AgendaItem.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/FeatureContentStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/FeatureContentStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/FeaturePageStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/FeaturePageStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/EventInformationStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/MediaContentBlockStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/LogoStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/ListStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/IndustriesStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/EventListStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/EventInformationStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/ProgramInformationStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/Industry.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/objects/TextBlock.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/MediaContentBlockStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/LogoStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/InformationTabsStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/InformationTabsStrip.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/_config/Global.yml",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/TestimonialSliderStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/ListStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/styles/_icons.scss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/_icons.scss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/_config/Icons.yml",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/digital360-boilerplate/_config.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/_config.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/fonts/icons/icons.eot",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Icons.yml",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/fonts/icons/_icons.scss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/digital360-boilerplate/composer.json",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/FeatureButtonStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/scripts/scripts.min.js",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes/Strips.ss",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips/IndustriesStrip.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/framework/view/ViewableData.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/digital360-boilerplate/code/StringFieldExtension.php",
+		"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Layout/Page.ss"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/templates/Includes",
+			"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code/strips",
+			"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site",
+			"/Users/nickspiel/Sites/businessbenchmarkgroup/website/site/code",
+			"/Users/nickspiel/Sites/businessbenchmarkgroup/website/node_modules/leasot",
+			"/Users/nickspiel/Sites/businessbenchmarkgroup/website",
+			"/Users/nickspiel/Sites/digital360/website",
+			"/Users/nickspiel/Sites/digital360/website/digital360-boilerplate",
+			"/Users/nickspiel/Sites/digital360/website/mysite/code",
+			"/Users/nickspiel/Sites/digital360/website/mysite",
+			"/Users/nickspiel/Sites/digital360/website/mysite/templates/Includes",
+			"/Users/nickspiel/Sites/digital360/website",
+			"/Users/nickspiel/Sites/sheen/website/digital360-layouts",
+			"/Users/nickspiel/Sites/sheen/website/digital360-boilerplate",
+			"/Users/nickspiel/Sites/sheen/website/mysite",
+			"/Users/nickspiel/Sites/sheen/website/digital360-layouts/modules",
+			"/Users/nickspiel/Sites/sheen/website/smtp",
+			"/Users/nickspiel/Sites/sheen/website/smtp/code",
+			"/Users/nickspiel/Sites/sheen/website/digital360-layouts",
+			"/Users/nickspiel/Sites/sheen/website/digital360-layouts/modules",
+			"/Users/nickspiel/Sites/sheen/website/digital360-layouts",
+			"/Users/nickspiel/Sites/sheen/website/digital360-layouts/modules",
+			"/Users/nickspiel/Sites/sheen/website/digital360-resource-centre/code",
+			"/Users/nickspiel/Sites/sheen/website/framework",
+			"/Users/nickspiel/Sites/sheen/website/mysite",
+			"/Users/nickspiel/Sites/sheen/website/digital360-layouts",
+			"/Users/nickspiel/Sites/sheen/website/digital360-layouts/modules",
+			"/Users/nickspiel/Sites/sheen/website/digital360-layouts",
+			"/Users/nickspiel/Sites/sheen/website/digital360-boilerplate",
+			"/Users/nickspiel/Sites/rapid/website/staticpublisher",
+			"/Users/nickspiel/Sites/rapid/website",
+			"/Users/nickspiel/Sites/rapid/website/framework",
+			"/Users/nickspiel/Sites/rapid/website",
+			"/Users/nickspiel/Sites/rapid/website/mysite",
+			"/Users/nickspiel/Sites/rapid/website",
+			"/Users/nickspiel/Sites/rapid/website/staticpublisher",
+			"/Users/nickspiel/Sites/rapid/website",
+			"/Users/nickspiel/Sites/rapid/website/cms/templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"domain",
+			"UserGist",
+			"BackgroundColor",
+			"$Programs",
+			"events",
+			"Events",
+			"frequency",
+			"&.overlap-previous",
+			"OverlapPrevious",
+			"overlap-previous",
+			"OverlapPrevious",
+			"CallBackFrom",
+			"callBackFrom",
+			"ContactForm",
+			"Title",
+			"(){}",
+			"MainMenu(){}",
+			"function ()",
+			" () {}",
+			"$breakpoint-1",
+			".level-two",
+			".item",
+			".item:not(:firs",
+			"overlap-previous",
+			"Overlap",
+			">",
+			"300",
+			"$breakpoint-3",
+			"$breakpoint-2",
+			"$breakpoint-1",
+			"$breakpoint-2",
+			"$breakpoint-1",
+			"{\n",
+			"questionaire.buttonsWrapper",
+			".question",
+			"addToMessageBody",
+			"messageBody",
+			"MessageBody",
+			"messageBody",
+			"getMessageBody",
+			"email",
+			"BackgroundColor",
+			"getCircleLength",
+			"el",
+			"percentage(1 / 2)",
+			"loadImages",
+			"pagedSlider.perPage",
+			"Low",
+			"low",
+			"Average",
+			"average",
+			"console",
+			"{\n",
+			"console.log",
+			"redirec",
+			"Config::inst()",
+			"config",
+			"Class",
+			"PreviousButtonText",
+			"NextButtonText",
+			"disable",
+			"disabled",
+			"questionaire.buttonsWrapper.removeClass('active');",
+			"questionaire.buttons",
+			"nextQuestion",
+			"Heading",
+			"heading",
+			"Heading",
+			"HeadingLevel",
+			"heading",
+			"Heading",
+			"heading",
+			"Heading",
+			"heading",
+			"Previous",
+			"previous",
+			"nextButtonText",
+			"NextButtonText",
+			"actionable",
+			";\n",
+			"questionaire.progress",
+			"'",
+			"recommendation",
+			"Recommendation",
+			"recommendation",
+			"Recommendation",
+			"recommendation",
+			"Recommendation",
+			"recommendation",
+			"Recommendation",
+			"recommendation",
+			"Questionaire()",
+			"recommendation",
+			"questionaire",
+			"Questionaire",
+			"questionaire",
+			"$Up.",
+			"TestimonialHeadingLevel",
+			"video",
+			".close",
+			".video-element {",
+			".video-element",
+			".video-element {",
+			".video-element",
+			".video-element {",
+			".video-element",
+			"video-element",
+			"globals.injectAndplayVideo",
+			"testimonialSlider.stopVideo",
+			"testimonialSlider.playVideo",
+			"video-e",
+			"class=\"detail\"",
+			"{$ThumbnailImage.Fit(400, 300).Url.BackgroundImage}",
+			"MainImage",
+			"TestimonialTitleHeadingLevel",
+			"testimonialTitleHeadingLevel",
+			"TestimonialTitleHeadingLevel",
+			"eventTitleHeadingLevel",
+			"EventTitleHeadingLevel",
+			"eventTitleHeadingLevel",
+			"TitleTitleHeadingLevel",
+			"$testimonial",
+			"accordionItems",
+			"AccordionItems",
+			"accordionItems",
+			"AccordionStrip",
+			"BackgroundColor",
+			"<% end_if %>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Config::inst()->get('Global', 'headings'));"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								579
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JSX/JSX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								60
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/VideoElement.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "module.exports = {",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/js/entry.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								76
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "// Create class called HelloBox that extends the b",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "info@sheengroup.com.au, glen.allpress@digital360.c",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 110.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "redditrtv.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"page",
+				"site/code/pages/Page.php"
+			],
+			[
+				"strips",
+				"site/styles/_strips.scss"
+			],
+			[
+				"eventlist",
+				"site/code/strips/EventListStrip.php"
+			],
+			[
+				"program",
+				"site/code/strips/ProgramInformationStrip.php"
+			],
+			[
+				"event",
+				"site/code/strips/EventListStrip.php"
+			],
+			[
+				"tile",
+				"site/code/objects/Tile.php"
+			],
+			[
+				"staff",
+				"site/templates/Includes/StaffBioStrip.ss"
+			],
+			[
+				"featuretile",
+				"site/templates/Includes/FeatureTileStrip.ss"
+			],
+			[
+				"feature",
+				"site/code/strips/FeatureTileStrip.php"
+			],
+			[
+				"programin",
+				"site/templates/Includes/ProgramInformationStrip.ss"
+			],
+			[
+				"stri",
+				"site/code/objects/Strip.php"
+			],
+			[
+				"contact",
+				"digital360-boilerplate/templates/Includes/ContactStrip.ss"
+			],
+			[
+				"strip",
+				"site/code/objects/Strip.php"
+			],
+			[
+				"contacr",
+				"site/code/strips/ContactStrip.php"
+			],
+			[
+				"contentblock",
+				"site/code/strips/ContentBlocksTabStrip.php"
+			],
+			[
+				"feturebutton",
+				"site/templates/Includes/FeatureButtonStrip.ss"
+			],
+			[
+				"video",
+				"site/templates/Includes/VideoElement.ss"
+			],
+			[
+				"recommenation",
+				"site/code/objects/Recommendation.php"
+			],
+			[
+				"informationblock.php",
+				"site/code/objects/InformationBlock.php"
+			],
+			[
+				"_strips.scss",
+				"site/styles/_strips.scss"
+			],
+			[
+				"recommenda",
+				"site/templates/Includes/RecommendedProgramStrip.ss"
+			],
+			[
+				"global",
+				"site/scripts/global.js"
+			],
+			[
+				"animations",
+				"site/styles/_animations.scss"
+			],
+			[
+				"page.ss",
+				"site/templates/Page.ss"
+			],
+			[
+				"styles",
+				"site/styles/_styles.scss"
+			],
+			[
+				"timel",
+				"site/code/strips/TimelineStrip.php"
+			],
+			[
+				"anima",
+				"site/styles/_animations.scss"
+			],
+			[
+				"infrom",
+				"site/code/objects/InformationBlock.php"
+			],
+			[
+				"timeline",
+				"site/templates/Includes/TimelineStrip.ss"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"contac",
+				"site/code/strips/ContactStrip.php"
+			],
+			[
+				"resultss",
+				"site/code/strips/ResultsStrip.php"
+			],
+			[
+				"resultsfor",
+				"site/code/objects/ResultsForm.php"
+			],
+			[
+				"enquiry",
+				"digital360-boilerplate/code/EnquiryPageController.php"
+			],
+			[
+				"configuration",
+				"site/styles/_configuration.scss"
+			],
+			[
+				"strip.php",
+				"site/code/strips/ContactStrip.php"
+			],
+			[
+				"questions",
+				"site/code/strips/QuestionaireStrip.php"
+			],
+			[
+				"quesion",
+				"site/templates/Includes/QuestionaireStrip.ss"
+			],
+			[
+				"gulpfile",
+				"gulpfile.js"
+			],
+			[
+				"recommned",
+				"site/templates/Includes/RecommendedProgramStrip.ss"
+			],
+			[
+				"globa",
+				"site/scripts/global.js"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"mediacontenttilesstrip",
+				"site/code/strips/MediaContentTilesStrip.php"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"reco",
+				"site/templates/Includes/RecommendedProgramStrip.ss"
+			],
+			[
+				"dataobject",
+				"framework/model/DataObject.php"
+			],
+			[
+				"logo",
+				"site/templates/Includes/LogoStrip.ss"
+			],
+			[
+				"meidacon",
+				"site/templates/Includes/MediaContentBlockStrip.ss"
+			],
+			[
+				"configurat",
+				"site/styles/_configuration.scss"
+			],
+			[
+				"videoelemet",
+				"site/templates/Includes/VideoElement.ss"
+			],
+			[
+				"golbal.",
+				"site/_config/Global.yml"
+			],
+			[
+				"configir",
+				"site/styles/_configuration.scss"
+			],
+			[
+				"global.js",
+				"site/scripts/global.js"
+			],
+			[
+				"icons",
+				"site/fonts/icons/_icons.scss"
+			],
+			[
+				"icons.scss",
+				"site/styles/_icons.scss"
+			],
+			[
+				"packages",
+				"package.json"
+			],
+			[
+				"stringfield",
+				"digital360-boilerplate/code/StringFieldExtension.php"
+			],
+			[
+				"confiuration",
+				"site/styles/_configuration.scss"
+			],
+			[
+				"sitec",
+				"site/code/extensions/SiteConfigExtension.php"
+			],
+			[
+				"sitetre",
+				"cms/code/model/SiteTree.php"
+			],
+			[
+				"service",
+				"mysite/templates/Includes/ServiceLinksStrip.ss"
+			],
+			[
+				"leftand",
+				"framework/admin/code/LeftAndMain.php"
+			],
+			[
+				"page.php",
+				"mysite/code/pages/Page.php"
+			],
+			[
+				"page.pp",
+				"framework/thirdparty/simpletest/page.php"
+			],
+			[
+				"static",
+				"staticpublisher/code/extensions/StaticPublisher.php"
+			],
+			[
+				"content",
+				"mysite/code/strips/ContentBlockStrip.php"
+			],
+			[
+				"nested",
+				"framework/forms/NestedForm.php"
+			],
+			[
+				"sit",
+				"cms/code/model/SiteTree.php"
+			],
+			[
+				"case",
+				"mysite/styles/cleanawater-case-study.scss"
+			],
+			[
+				"case-s",
+				"mysite/styles/cleanawater-case-study.css"
+			],
+			[
+				"cleana",
+				"mysite/templates/Layout/CleanawaterCaseStudyPage.ss"
+			],
+			[
+				"contenttabstrip",
+				"mysite/templates/Includes/ContentBlocksTabStrip.ss"
+			],
+			[
+				"reset",
+				"mysite/styles/_reset.scss"
+			],
+			[
+				"util",
+				"mysite/styles/_utilities.scss"
+			],
+			[
+				"config",
+				"mysite/styles/_configuration.scss"
+			],
+			[
+				"custom",
+				"mysite/templates/Layout/CustomPage.ss"
+			],
+			[
+				"configut",
+				"mysite/styles/_configuration.scss"
+			],
+			[
+				"utilities",
+				"mysite/styles/_utilities.scss"
+			],
+			[
+				"grunt",
+				"gruntfile.js"
+			],
+			[
+				"gruntfile",
+				"gruntfile.js"
+			],
+			[
+				"utili",
+				"mysite/styles/_utilities.scss"
+			],
+			[
+				"string",
+				"digital360-boilerplate/code/StringFieldExtension.php"
+			],
+			[
+				"utilit",
+				"mysite/styles/_utilities.scss"
+			],
+			[
+				"process",
+				"mysite/code/strips/ProcessStrip.php"
+			],
+			[
+				"data",
+				"framework/model/DataObject.php"
+			],
+			[
+				"media",
+				"mysite/code/strips/MediaContentStrip.php"
+			],
+			[
+				"information",
+				"mysite/code/strips/InformationBlocksStrip.php"
+			],
+			[
+				"informa",
+				"mysite/templates/Includes/InformationBlocksStrip.ss"
+			],
+			[
+				"inform",
+				"mysite/code/strips/InformationBlocksStrip.php"
+			],
+			[
+				"style",
+				"mysite/styles/_styles.scss"
+			],
+			[
+				"",
+				"mysite/templates/Includes/ProcessStrip.ss"
+			],
+			[
+				"configura",
+				"mysite/styles/_configuration.scss"
+			],
+			[
+				"dataobe",
+				"framework/model/DataObject.php"
+			],
+			[
+				"image",
+				"mysite/code/strips/ImageContentStrip.php"
+			],
+			[
+				"todo",
+				"tasks.todo"
+			],
+			[
+				"imagecon",
+				"mysite/code/strips/ImageContentStrip.php"
+			],
+			[
+				"contentb",
+				"mysite/code/strips/ContentBlockStrip.php"
+			],
+			[
+				"page.",
+				"mysite/code/pages/Page.php"
+			],
+			[
+				"call",
+				"mysite/templates/Includes/CallOutBlockStrip.ss"
+			],
+			[
+				"boiler",
+				"digital360-boilerplate/code/BoilerplatePage.php"
+			],
+			[
+				"relevant",
+				"mysite/templates/Includes/RelevantPagesStrip.ss"
+			],
+			[
+				"config.scss",
+				"mysite/styles/_configuration.scss"
+			],
+			[
+				"gruntfi",
+				"gruntfile.js"
+			],
+			[
+				"teamgri",
+				"mysite/code/strips/TeamGrid.php"
+			],
+			[
+				"teamme",
+				"mysite/code/objects/TeamMember.php"
+			],
+			[
+				"location",
+				"mysite/templates/Includes/LocationMap.ss"
+			],
+			[
+				"global.",
+				"mysite/scripts/global.js"
+			],
+			[
+				"imagec",
+				"mysite/code/strips/ImageContentStrip.php"
+			],
+			[
+				"configu",
+				"mysite/styles/_configuration.scss"
+			],
+			[
+				"imagecontent",
+				"mysite/code/strips/ImageContentStrip.php"
+			],
+			[
+				"object",
+				"framework/core/Object.php"
+			],
+			[
+				"page.p",
+				"mysite/code/pages/Page.php"
+			],
+			[
+				"upload",
+				"framework/forms/UploadField.php"
+			],
+			[
+				"hasmany",
+				"framework/model/HasManyList.php"
+			],
+			[
+				"siteconf",
+				"mysite/code/SiteConfigExtension.php"
+			],
+			[
+				"pagess",
+				"mysite/templates/Page.ss"
+			],
+			[
+				"dataob",
+				"framework/model/DataObject.php"
+			],
+			[
+				"utilsi",
+				"mysite/styles/utilities.scss"
+			],
+			[
+				"sty",
+				"googlesitemaps/css/style.css"
+			],
+			[
+				"util.scss",
+				"mysite/styles/_utils.scss"
+			],
+			[
+				"sitetree",
+				"cms/code/model/SiteTree.php"
+			],
+			[
+				"_config",
+				"cms/_config.php"
+			],
+			[
+				"baseform",
+				"digital360-boilerplate/code/BaseForm.php"
+			],
+			[
+				"email",
+				"framework/email/Email.php"
+			],
+			[
+				"mailer",
+				"framework/email/Mailer.php"
+			],
+			[
+				"base",
+				"digital360-boilerplate/code/BaseForm.php"
+			],
+			[
+				"utils",
+				"mysite/styles/_utils.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

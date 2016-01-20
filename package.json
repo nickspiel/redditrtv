@@ -1,0 +1,27 @@
+{
+  "name": "redditrtv",
+  "version": "1.0.0",
+  "description": "Watch reddit/r/videos",
+  "main": "app.js",
+  "dependencies": {
+    "babel-cli": "^6.4.0",
+    "babel-loader": "^6.2.1",
+    "express": "^4.13.3",
+    "react-dom": "^0.14.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node ./server.js"
+  },
+  "author": "Nick Spiel",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.4.0",
+    "babel-preset-es2015": "^6.3.13",
+    "react": "^0.14.6",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.12.11",
+    "webpack-dev-server": "^1.14.1",
+    "webpack-hot-middleware": "^2.6.0"
+  }
+}
